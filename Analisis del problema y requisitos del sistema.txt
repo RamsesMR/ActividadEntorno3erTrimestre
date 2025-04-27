@@ -1,0 +1,29 @@
+Análisis del problema y requisitos del sistema:
+
+1. Los actores principales son:
+
+Administrador
+Jugador
+Sistema
+
+2. ¿Qué acciones realiza cada actor?
+
+Administrador: CREA TORNEOS, INCRIBE EQUIPOS EN TORNEO
+
+Systema: registra resultados de partida, actualiza clasificación final
+
+Jugador: forma parte de un equipo, juega torneo, obtiene clasificación
+
+3. Como se relacionan entre si las entidades del sistema:
+
+Las clasificaciones: contienen equipos y torneos
+
+Las calificaciones: premian a los equipos
+
+Los torneos: contienen Equipos
+
+Las torneos: generan calificaciones
+
+Los equipos: contienen jugadores
+
+
